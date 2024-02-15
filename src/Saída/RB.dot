@@ -1,0 +1,115 @@
+digraph RadialTree {
+
+	3 [style=filled, fillcolor = red, fontcolor = white]
+	10 [style=filled, fillcolor = black, fontcolor = white]
+	3 [style=filled, fillcolor = red, fontcolor = white]
+	10 -> 3
+	57 [style=filled, fillcolor = red, fontcolor = white]
+	89 [style=filled, fillcolor = red, fontcolor = white]
+	85 [style=filled, fillcolor = black, fontcolor = white]
+	57 [style=filled, fillcolor = red, fontcolor = white]
+	85 -> 57
+	89 [style=filled, fillcolor = red, fontcolor = white]
+	85 -> 89
+	35 [style=filled, fillcolor = black, fontcolor = white]
+	10 [style=filled, fillcolor = black, fontcolor = white]
+	35 -> 10
+	85 [style=filled, fillcolor = black, fontcolor = white]
+	35 -> 85
+	131 [style=filled, fillcolor = black, fontcolor = white]
+	123 [style=filled, fillcolor = black, fontcolor = white]
+	131 [style=filled, fillcolor = black, fontcolor = white]
+	123 -> 131
+	98 [style=filled, fillcolor = red, fontcolor = white]
+	35 [style=filled, fillcolor = black, fontcolor = white]
+	98 -> 35
+	123 [style=filled, fillcolor = black, fontcolor = white]
+	98 -> 123
+	170 [style=filled, fillcolor = black, fontcolor = white]
+	185 [style=filled, fillcolor = red, fontcolor = white]
+	170 [style=filled, fillcolor = black, fontcolor = white]
+	185 -> 170
+	232 [style=filled, fillcolor = black, fontcolor = white]
+	256 [style=filled, fillcolor = red, fontcolor = white]
+	268 [style=filled, fillcolor = red, fontcolor = white]
+	262 [style=filled, fillcolor = black, fontcolor = white]
+	256 [style=filled, fillcolor = red, fontcolor = white]
+	262 -> 256
+	268 [style=filled, fillcolor = red, fontcolor = white]
+	262 -> 268
+	251 [style=filled, fillcolor = red, fontcolor = white]
+	232 [style=filled, fillcolor = black, fontcolor = white]
+	251 -> 232
+	262 [style=filled, fillcolor = black, fontcolor = white]
+	251 -> 262
+	209 [style=filled, fillcolor = black, fontcolor = white]
+	185 [style=filled, fillcolor = red, fontcolor = white]
+	209 -> 185
+	251 [style=filled, fillcolor = red, fontcolor = white]
+	209 -> 251
+	144 [style=filled, fillcolor = black, fontcolor = white]
+	98 [style=filled, fillcolor = red, fontcolor = white]
+	144 -> 98
+	209 [style=filled, fillcolor = black, fontcolor = white]
+	144 -> 209
+	278 [style=filled, fillcolor = black, fontcolor = white]
+	304 [style=filled, fillcolor = red, fontcolor = white]
+	287 [style=filled, fillcolor = black, fontcolor = white]
+	304 [style=filled, fillcolor = red, fontcolor = white]
+	287 -> 304
+	280 [style=filled, fillcolor = black, fontcolor = white]
+	278 [style=filled, fillcolor = black, fontcolor = white]
+	280 -> 278
+	287 [style=filled, fillcolor = black, fontcolor = white]
+	280 -> 287
+	305 [style=filled, fillcolor = red, fontcolor = white]
+	280 [style=filled, fillcolor = black, fontcolor = white]
+	305 -> 280
+	354 [style=filled, fillcolor = red, fontcolor = white]
+	352 [style=filled, fillcolor = red, fontcolor = white]
+	354 [style=filled, fillcolor = red, fontcolor = white]
+	352 -> 354
+	357 [style=filled, fillcolor = black, fontcolor = white]
+	352 [style=filled, fillcolor = red, fontcolor = white]
+	357 -> 352
+	339 [style=filled, fillcolor = black, fontcolor = white]
+	305 [style=filled, fillcolor = red, fontcolor = white]
+	339 -> 305
+	357 [style=filled, fillcolor = black, fontcolor = white]
+	339 -> 357
+	370 [style=filled, fillcolor = black, fontcolor = white]
+	408 [style=filled, fillcolor = red, fontcolor = white]
+	426 [style=filled, fillcolor = black, fontcolor = white]
+	408 [style=filled, fillcolor = red, fontcolor = white]
+	426 -> 408
+	379 [style=filled, fillcolor = black, fontcolor = white]
+	370 [style=filled, fillcolor = black, fontcolor = white]
+	379 -> 370
+	426 [style=filled, fillcolor = black, fontcolor = white]
+	379 -> 426
+	479 [style=filled, fillcolor = black, fontcolor = white]
+	499 [style=filled, fillcolor = red, fontcolor = white]
+	485 [style=filled, fillcolor = black, fontcolor = white]
+	499 [style=filled, fillcolor = red, fontcolor = white]
+	485 -> 499
+	482 [style=filled, fillcolor = black, fontcolor = white]
+	479 [style=filled, fillcolor = black, fontcolor = white]
+	482 -> 479
+	485 [style=filled, fillcolor = black, fontcolor = white]
+	482 -> 485
+	438 [style=filled, fillcolor = red, fontcolor = white]
+	379 [style=filled, fillcolor = black, fontcolor = white]
+	438 -> 379
+	482 [style=filled, fillcolor = black, fontcolor = white]
+	438 -> 482
+	366 [style=filled, fillcolor = black, fontcolor = white]
+	339 [style=filled, fillcolor = black, fontcolor = white]
+	366 -> 339
+	438 [style=filled, fillcolor = red, fontcolor = white]
+	366 -> 438
+	270 [style=filled, fillcolor = black, fontcolor = white]
+	144 [style=filled, fillcolor = black, fontcolor = white]
+	270 -> 144
+	366 [style=filled, fillcolor = black, fontcolor = white]
+	270 -> 366
+}
